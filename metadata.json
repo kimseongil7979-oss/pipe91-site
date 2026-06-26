@@ -1,0 +1,6 @@
+{
+  "name": "하수구91",
+  "description": "하수구 막힘, 고압세척, 누수탐지, 배관설비 전문 업체 하수구91 공식 홈페이지. 24시간 연중무휴 신속한 출장 서비스.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
